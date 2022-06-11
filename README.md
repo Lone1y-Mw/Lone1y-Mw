@@ -1,5 +1,5 @@
-![Lone1y-Mw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lone1y-Mw&show_icons=true&theme=dracula)
+<h1>👋 Hi, I'm @Lone1y-Mw </h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lone1y-Mw&layout=compact&theme=cobalt)
-
-수정중 ...
+- 🚀  Middle School Student
+- 🌱  Studying Overall Thing about Programming
+- ⛏️  Deciding What I want to do
