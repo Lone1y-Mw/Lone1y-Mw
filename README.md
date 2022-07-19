@@ -4,7 +4,7 @@
 - 🌱  Studying Overall Thing about Programming
 - ⛏️  Deciding What I want to do
 
-```
+```python
 from GitHub import ReadMe
 import random, sys, os
 
@@ -37,7 +37,7 @@ if __name__ == "__main__":
     README()
 ```
     
-```
+```python
     Output: 
 Hi my name is yubin and I am 16 years old
 I live in South Korea
