@@ -13,18 +13,16 @@ os.system("clear") if sys.platform == "linux" else os.system("cls")
 ReadMe.init()
 
 def README():
-    username = "yubin"
-    age = "16"
+    username = "quinn__"
+    age = "~"
     location = "South Korea"
     programming_language = "Python"
     infos = {
-        "Facebook profile": "https://www.facebook.com/profile.php?id=100046960400174",
-        "Instagram profile": "@x_1.mv"
+        "Facebook profile": "~",
+        "Instagram profile": "@~"
     }
     contacts = [
-        "@x_1.mv",
-        "@dlwlrkrk",
-        "#5900"
+        "~",
     ]
     print("Hi my name is " + username + " and I am " + age + " years old")
     print("I live in " + location)
