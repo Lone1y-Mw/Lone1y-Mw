@@ -37,9 +37,9 @@ if __name__ == "__main__":
     
 ```python
     Output: 
-Hi my name is yubin and I am 16 years old
+Hi my name is quinn__ and I am ~ years old
 I live in South Korea
 Self learner of Python
-You can contact me here: @x_1.mv
+You can contact me here: @~
 Press enter when you're done reading
 ```
