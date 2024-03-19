@@ -1,9 +1,5 @@
 <h1>👋 Hi, I'm @Lone1y-Mw </h1>
 
-- 🚀  Middle School Student
-- 🌱  Studying Overall Thing about Programming
-- ⛏️  Deciding What I want to do
-
 ```python
 from GitHub import ReadMe
 import random, sys, os
@@ -13,13 +9,12 @@ os.system("clear") if sys.platform == "linux" else os.system("cls")
 ReadMe.init()
 
 def README():
-    username = "quinn__"
+    username = "binu__"
     age = "~"
     location = "South Korea"
     programming_language = "Python"
     infos = {
-        "Facebook profile": "~",
-        "Instagram profile": "@~"
+        "Instagram profile": "@7azioxp"
     }
     contacts = [
         "~",
@@ -37,9 +32,9 @@ if __name__ == "__main__":
     
 ```python
     Output: 
-Hi my name is quinn__ and I am ~ years old
+Hi my name is binu__ and I am 16 years old
 I live in South Korea
 Self learner of Python
-You can contact me here: @~
+You can contact me here: @7azioxp
 Press enter when you're done reading
 ```
