@@ -12,17 +12,12 @@ def README():
     username = "binu__"
     age = "~"
     location = "South Korea"
-    programming_language = "Python"
     infos = {
         "Instagram profile": "@7azioxp"
     }
-    contacts = [
-        "~",
-    ]
     print("Hi my name is " + username + " and I am " + age + " years old")
     print("I live in " + location)
-    print("Self learner of " + programming_language)
-    print("You can contact me here: " + random.choice(contacts))
+    print("You can contact me here: " + random.choice(infos))
     input("Press enter when you're done reading")
     
 if __name__ == "__main__":
@@ -34,7 +29,6 @@ if __name__ == "__main__":
     Output: 
 Hi my name is binu__ and I am 16 years old
 I live in South Korea
-Self learner of Python
 You can contact me here: @7azioxp
 Press enter when you're done reading
 ```
